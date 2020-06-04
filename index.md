@@ -1,6 +1,6 @@
-#Test
+# Test
 
 Hello world
 
-*I am trying somthing
-*No judgement please
+* I am trying something
+* No judgement please
