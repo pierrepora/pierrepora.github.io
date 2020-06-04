@@ -1,3 +1,8 @@
+---
+layout: post
+title: Title
+---
+
 # Test
 
 Hello world
