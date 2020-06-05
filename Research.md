@@ -123,4 +123,13 @@ Sciences Humaines</a>.
 
 # Work in progress
 
-To be completed
+### "Affordable Collective Childcare and Parental Earnings in France". \[draft coming soon\]
+
+<details>
+  <summary>Abstract</summary>
+  
+Combining several administrative registers, I investigate the effect of affordable collective childcare on parents' labor outcomes in France between 2007 and 2015. My approach relies on the staggered expansion of heavily subsidized childcare institutions across municipalities. Increases in the provision of affordable childcare did not lead to any substantial change in the labor outcomes of parents and did not affect the take-up of paid parental leave. I provide additional evidence that these affordable childcare expansions crowded out other, more costly, formal childcare solutions. This suggests that these expansions mostly subsidize affluent families who would have otherwise resorted to individualized childcare.
+</details>
+
+<p></p>
+
