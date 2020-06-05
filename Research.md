@@ -37,11 +37,11 @@ In France since the 1970s, the growth in labour force has been driven largely by
   <summary>Media coverage</summary>
   
 <a href="https://blogs.alternatives-economiques.fr/anota/2020/05/05/la-biologie-explique-t-elle-les-inegalites-salariales-entre-hommes-et-femmes">
-Alternatives \'Economiques</a>
+Alternatives Économiques</a>
 <a href="https://www.la-croix.com/Economie/France/Comment-reduire-inegalites-2019-08-27-1201043464">
 La Croix</a>
 <a href="https://www.lesechos.fr/idees-debats/livres/linsee-scrute-50-ans-de-la-vie-des-francais-1159970">
-Les \'Echos</a>
+Les Échos</a>
 </details>
 
 <p></p>
