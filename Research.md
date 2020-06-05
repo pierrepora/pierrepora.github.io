@@ -46,7 +46,7 @@ Les Échos</a>.
 
 <p></p>
 
-## ["The individual dynamics of wage income in France during the crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with L. Wilner. *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.
+### ["The individual dynamics of wage income in France during the crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with L. Wilner. *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.
 
 <details>
   <summary>Abstract</summary>
