@@ -23,7 +23,7 @@ Le Figaro</a>.
 
 <p></p>
 
-### ["Gender Equality on the Labour Market in France: A Slow Convergence Hampered by Motherhood"](https://www.insee.fr/en/statistiques/4253144?sommaire=4253180), with D. Meurs, *Economie et Statistique / Economics and Statistics*, 510-511-512, 109-130, 2019.
+### ["Gender Equality on the Labour Market in France: A Slow Convergence Hampered by Motherhood"](https://www.insee.fr/en/statistiques/4253144?sommaire=4253180), with D. Meurs. *Economie et Statistique / Economics and Statistics*, 510-511-512, 109-130, 2019.
 
 <details>
   <summary>Abstract</summary>
@@ -42,6 +42,16 @@ Alternatives Économiques</a>,
 La Croix</a>,
 <a href="https://www.lesechos.fr/idees-debats/livres/linsee-scrute-50-ans-de-la-vie-des-francais-1159970">
 Les Échos</a>.
+</details>
+
+<p></p>
+
+## ["The individual dynamics of wage income in France during the crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with L. Wilner. *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.
+
+<details>
+  <summary>Abstract</summary>
+  
+The uncertain nature of future income limits the ability of agents to smooth their consumption over time. Variation in this uncertainty can thus bring about variation in well-being. We study the evolutions of the uncertainty on wage income in France before and over the course of the crisis of 2008 drawing on longitudinal administrative data. Using a non‑parametric method, we estimate the magnitude and form of this uncertainty and show that they depend on past wage income. This uncertainty is broken down into wage and working time, and according to the mobility of the wage earners. During the crisis, the magnitude of this uncertainty on future wage income increases slightly, and its downward asymmetry is stronger at both ends of the wage income scale: with this uncertainty, unfavourable evolutions have a bigger impact during the crisis than in the preceding period. This is explained by a heightened probability of unfavourable individual evolutions in terms of working time for the lowest‑paid workers, and in terms of wage for the highest-paid. Mobility is more frequent during the crisis but the uncertainty associated with it is lower than over the preceding years.
 </details>
 
 <p></p>
