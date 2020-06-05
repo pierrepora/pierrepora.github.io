@@ -1,6 +1,6 @@
 # Published papers
 
-### ["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with L. Wilner. *Labour Economics*, 63, 101807, 2020. \[[Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555)\]
+### ["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with L. Wilner. *Labour Economics*, 63, 101807, 2020. <font size="1">[\[Non-technical summary (in French)\]](https://www.insee.fr/fr/statistiques/3364555)<\font>
 
 <details>
   <summary>Abstract</summary>
