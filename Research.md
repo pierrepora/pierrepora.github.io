@@ -1,6 +1,24 @@
 # Published papers
 
 ### "A decomposition of labor earnings growth: Recovering Gaussianity?" with L. Wilner. *Labour Economics*, 63, 101807, 2020.
+
+<div class = main>
+<div class = bttn><button>abcdef</button></div>
+<div class = content>
+<a href = "#">jksg</a>
+<a href = "#">jksg</a>
+<a href = "#">jksg</a>
+<a href = "#">jksg</a>
+</div>
+</div>
+
+
+
+<button>abcdef</button>
+<button>abcdef</button>
+<button>abcdef</button>
+
+
 <details>
   <summary>Abstract</summary>
   
