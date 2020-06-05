@@ -1,6 +1,7 @@
 ---
 title: CV
 ---
+My full CV is available [here](pierrepora.github.io/CV.pdf).
 
 # Employment
 
