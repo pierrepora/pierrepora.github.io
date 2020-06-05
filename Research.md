@@ -8,7 +8,6 @@ Recent works have concluded that labor earnings dynamics exhibit non-Gaussian an
 </details>
 
 [Non-technical summary](https://www.insee.fr/fr/statistiques/3364555)
-
 Media coverage: [BFMTV](https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html) [Le Figaro](https://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/07/05/29006-20160705ARTFIG00265-votre-salaire-evolue-t-il-normalement.php)
 
 
