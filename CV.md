@@ -11,6 +11,8 @@ My full CV is available [here](CV.pdf).
 
 * 2014-2017: **Economist**, Wages and Labor Income unit, [Insee](https://insee.fr/fr/accueil).
 
+* since 2014: [Crest](http://crest.science/) affiliate.
+
 
 # Education
 
