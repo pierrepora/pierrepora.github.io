@@ -6,7 +6,8 @@
   
 Recent works have concluded that labor earnings dynamics exhibit non-Gaussian and nonlinear features. We argue in this paper that this finding is mainly due to volatility in working time. Using a non-parametric approach, we find from French data that changes in labor earnings exhibit strong asymmetry and high peakedness. However, after decomposing labor earnings growth into growth in wages and working time, deviations from Gaussianity stem from changes in working time. The nonlinearity of earnings dynamics is also mostly driven by working time dynamics at the extensive margin.
 </details>[Non-technical summary](https://www.insee.fr/fr/statistiques/3364555)
-summary>Media coverage</summary>
+<details>
+  <summary>Media coverage</summary>
   
 <a href="https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html">
 BFMTV</a>
