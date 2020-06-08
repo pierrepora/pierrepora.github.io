@@ -1,7 +1,6 @@
 # Policy (in French)
 
 * ["Les trajectoires professionnelles des femmes les moins bien rémunérées sont les plus affectées par la naissance d’un enfant"](https://insee.fr/fr/statistiques/4226475), with L. Wilner, Insee Analyses 48.
-    
     <details>
         <summary>Media coverage</summary>
     
@@ -29,7 +28,7 @@
         <a href="https://www.scienceshumaines.com/le-premier-enfant-un-frein-salarial-pour-les-meres_fr_41810.html">Sciences Humaines</a>.
     </details>
 
-<p></p>
+    <p></p>
 
 * ["Les contrats à durée limitée : trappes à précarité ou tremplins pour une carrière ?"](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950), with O. Bonnet and S. Georges-Kot, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
 
@@ -51,7 +50,7 @@
             <a href="http://rebondir.fr/actualites-emploi/les-contrats-a-duree-limitee-entre-tremplins-pour-une-carriere-et-trappes-a-precarite-insee-02072019">Rebondir</a>.
     </details>
 
-<p></p>
+    <p></p>
 
 * ["Y a-t-il eu polarisation de l’emploi salarié en France entre 1988 et 2014 ? Une analyse selon les catégories socioprofessionnelles et le contenu de l’emploi en tâches"](https://www.insee.fr/fr/statistiques/3197271?sommaire=3197289), with E. Berger, in *France, portrait social*, coll. "Insee Références".
     <details>
@@ -62,7 +61,7 @@
             <a href="https://www.liberation.fr/france/2017/11/21/l-insee-portraitiste-d-une-france-temperee_1611493">Libération</a>.
    </details>
    
-<p></p>
+    <p></p>
 
 * ["Les évolutions annuelles de revenu salarial le long de l’échelle salariale : quels constats selon l’âge,
 le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=2122750), with L. Wilner, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
@@ -73,7 +72,7 @@ le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=
             <a href="https://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/07/05/29006-20160705ARTFIG00265-votre-salaire-evolue-t-il-normalement.php">Le Figaro</a>.
    </details>
 
-<p></p>
+   <p></p>
 
 
 # Other non-academic publications
