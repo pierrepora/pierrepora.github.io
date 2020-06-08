@@ -28,13 +28,14 @@
         <a href="https://www.scienceshumaines.com/le-premier-enfant-un-frein-salarial-pour-les-meres_fr_41810.html">Sciences Humaines</a>.
     </details>
 
+<p></p>
+
 * ["Les contrats à durée limitée : trappes à précarité ou tremplins pour une carrière ?"](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950), with O. Bonnet and S. Georges-Kot, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
 
 * ["Y a-t-il eu polarisation de l’emploi salarié en France entre 1988 et 2014 ? Une analyse selon les catégories socioprofessionnelles et le contenu de l’emploi en tâches"](https://www.insee.fr/fr/statistiques/3197271?sommaire=3197289), with E. Berger, in *France, portrait social*, coll. "Insee Références". 
 
 * ["Les évolutions annuelles de revenu salarial le long de l’échelle salariale : quels constats selon l’âge,
-le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=2122750), with L. Wilner, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
-    <details>
+le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=2122750), with L. Wilner, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".<details>
         <summary>Media coverage</summary>
     
             <a href="https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html">BFMTV</a>,
