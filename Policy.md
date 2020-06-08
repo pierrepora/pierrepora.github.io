@@ -54,7 +54,7 @@
 <p></p>
 
 * ["Y a-t-il eu polarisation de l’emploi salarié en France entre 1988 et 2014 ? Une analyse selon les catégories socioprofessionnelles et le contenu de l’emploi en tâches"](https://www.insee.fr/fr/statistiques/3197271?sommaire=3197289), with E. Berger, in *France, portrait social*, coll. "Insee Références".
-<details>
+    <details>
         <summary>Media coverage</summary>
     
             <a href="https://www.challenges.fr/emploi/marche-de-l-emploi/pourquoi-le-marche-du-travail-francais-ne-se-polarise-comme-aux-etats-unis_514889">Challenges</a>,
