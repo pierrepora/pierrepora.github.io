@@ -31,7 +31,6 @@
     <p></p>
 
 * ["Les contrats à durée limitée : trappes à précarité ou tremplins pour une carrière ?"](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950), with O. Bonnet and S. Georges-Kot, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
-
     <details>
         <summary>Media coverage</summary>
     
