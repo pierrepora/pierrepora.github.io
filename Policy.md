@@ -2,8 +2,8 @@
 
 * ["Les trajectoires professionnelles des femmes les moins bien rémunérées sont les plus affectées par la naissance d’un enfant"](https://insee.fr/fr/statistiques/4226475), with L. Wilner, Insee Analyses 48.
     <details>
-            <summary>Media coverage</summary>
-  
+        <summary>Media coverage</summary>
+    
                 <a href="https://www.alternatives-economiques.fr/faut-travailler-faire-plaisir-a-entourage/00090661">Alternatives Économiques</a>,
                 <a href="https://www.bfmtv.com/economie/comment-l-arrivee-d-un-enfant-accroit-les-differences-salariales-entre-hommes-et-femmes-1784408.html">BFMTV</a>,
                 <a href="https://www.challenges.fr/femmes/cinq-ans-apres-l-arrivee-d-un-enfant-les-meres-perdent-25-de-leurs-revenus-salariaux_679076">Challenges</a>,
@@ -35,26 +35,16 @@
 * ["Y a-t-il eu polarisation de l’emploi salarié en France entre 1988 et 2014 ? Une analyse selon les catégories socioprofessionnelles et le contenu de l’emploi en tâches"](https://www.insee.fr/fr/statistiques/3197271?sommaire=3197289), with E. Berger, in *France, portrait social*, coll. "Insee Références". 
 
 * ["Les évolutions annuelles de revenu salarial le long de l’échelle salariale : quels constats selon l’âge,
-le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=2122750), with L. Wilner, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références". 
+le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=2122750), with L. Wilner, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
     <details>
         <summary>Media coverage</summary>
-  
-                 <a href="https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html">BFMTV</a>, 
-          <a href="https://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/07/05/29006-20160705ARTFIG00265-votre-salaire-evolue-t-il-normalement.php">Le Figaro</a>.
+    
+            <a href="https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html">BFMTV</a>,
+            <a href="https://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/07/05/29006-20160705ARTFIG00265-votre-salaire-evolue-t-il-normalement.php">Le Figaro</a>.
    </details>
 
 <p></p>
 
-
-
-
-    <details>
-        <summary>Media coverage</summary>
-  
-         
-   </details>
-
-<p></p>
 
 # Other non-academic publications
 
