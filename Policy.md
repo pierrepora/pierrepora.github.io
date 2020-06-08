@@ -27,7 +27,8 @@
         <a href="https://www.ouest-france.fr/societe/egalite-hommes-femmes/l-arrivee-d-un-enfant-impacte-davantage-le-salaire-des-meres-que-celui-des-peres-6558318">Ouest France</a>,
         <a href="https://www.scienceshumaines.com/le-premier-enfant-un-frein-salarial-pour-les-meres_fr_41810.html">Sciences Humaines</a>.
     </details>
-<p></p>
+
+
 
 * ["Les contrats à durée limitée : trappes à précarité ou tremplins pour une carrière ?"](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950), with O. Bonnet and S. Georges-Kot, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
 
