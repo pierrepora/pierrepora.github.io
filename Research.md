@@ -4,7 +4,8 @@ title: Research
 
 # Published papers
 
-### ["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with L. Wilner. *Labour Economics*, 63, 101807, 2020. 
+### ["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with L. Wilner. *Labour Economics*, 63, 101807, 2020.
+  BLABLA
 
   <details>
     <summary>Abstract</summary>
