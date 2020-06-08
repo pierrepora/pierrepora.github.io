@@ -1,3 +1,7 @@
+---
+title: Policy writing
+---
+
 # Policy (in French)
 
 * ["Les trajectoires professionnelles des femmes les moins bien rémunérées sont les plus affectées par la naissance d’un enfant"](https://insee.fr/fr/statistiques/4226475), with L. Wilner, Insee Analyses 48.
