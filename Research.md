@@ -6,26 +6,24 @@ title: Research
 
 ### ["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with L. Wilner. *Labour Economics*, 63, 101807, 2020. 
 
-<details>
-  <summary>Abstract</summary>
+  <details>
+    <summary>Abstract</summary>
   
 Recent works have concluded that labor earnings dynamics exhibit non-Gaussian and nonlinear features. We argue in this paper that this finding is mainly due to volatility in working time. Using a non-parametric approach, we find from French data that changes in labor earnings exhibit strong asymmetry and high peakedness. However, after decomposing labor earnings growth into growth in wages and working time, deviations from Gaussianity stem from changes in working time. The nonlinearity of earnings dynamics is also mostly driven by working time dynamics at the extensive margin.
-</details>
+  </details>
 
-<p></p>
+  <p></p>
 
-[Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555)
+  [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555)
 
-<details>
-  <summary>Media coverage</summary>
+  <details>
+    <summary>Media coverage</summary>
   
-<a href="https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html">
-BFMTV</a>, 
-<a href="https://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/07/05/29006-20160705ARTFIG00265-votre-salaire-evolue-t-il-normalement.php">
-Le Figaro</a>.
-</details>
+    <a href="https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html">BFMTV</a>, 
+    <a href="https://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/07/05/29006-20160705ARTFIG00265-votre-salaire-evolue-t-il-normalement.php">Le Figaro</a>.
+  </details>
 
-<p></p>
+  <p></p>
 
 ### ["Gender Equality on the Labour Market in France: A Slow Convergence Hampered by Motherhood"](https://www.insee.fr/en/statistiques/4253144?sommaire=4253180), with D. Meurs. *Economie et Statistique / Economics and Statistics*, 510-511-512, 109-130, 2019.
 
