@@ -8,6 +8,16 @@
 
 * ["Les évolutions annuelles de revenu salarial le long de l’échelle salariale : quels constats selon l’âge,
 le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=2122750), with L. Wilner, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
+<details>
+  <summary>Media coverage</summary>
+  
+<a href="https://bfmbusiness.bfmtv.com/observatoire/un-salarie-gagne-4-fois-plus-a-40-ans-qu-a-25-ans-1001513.html">
+BFMTV</a>, 
+<a href="https://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/07/05/29006-20160705ARTFIG00265-votre-salaire-evolue-t-il-normalement.php">
+Le Figaro</a>.
+</details>
+
+<p></p>
 
 # Other non-academic publications
 
