@@ -1,6 +1,7 @@
 # Policy (in French)
 
 * ["Les trajectoires professionnelles des femmes les moins bien rémunérées sont les plus affectées par la naissance d’un enfant"](https://insee.fr/fr/statistiques/4226475), with L. Wilner, Insee Analyses 48.
+    
     <details>
         <summary>Media coverage</summary>
     
@@ -28,7 +29,7 @@
         <a href="https://www.scienceshumaines.com/le-premier-enfant-un-frein-salarial-pour-les-meres_fr_41810.html">Sciences Humaines</a>.
     </details>
 
-
+<p></p>
 
 * ["Les contrats à durée limitée : trappes à précarité ou tremplins pour une carrière ?"](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950), with O. Bonnet and S. Georges-Kot, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
 
