@@ -51,8 +51,18 @@
             <a href="http://rebondir.fr/actualites-emploi/les-contrats-a-duree-limitee-entre-tremplins-pour-une-carriere-et-trappes-a-precarite-insee-02072019">Rebondir</a>.
     </details>
 
+<p></p>
 
-* ["Y a-t-il eu polarisation de l’emploi salarié en France entre 1988 et 2014 ? Une analyse selon les catégories socioprofessionnelles et le contenu de l’emploi en tâches"](https://www.insee.fr/fr/statistiques/3197271?sommaire=3197289), with E. Berger, in *France, portrait social*, coll. "Insee Références". 
+* ["Y a-t-il eu polarisation de l’emploi salarié en France entre 1988 et 2014 ? Une analyse selon les catégories socioprofessionnelles et le contenu de l’emploi en tâches"](https://www.insee.fr/fr/statistiques/3197271?sommaire=3197289), with E. Berger, in *France, portrait social*, coll. "Insee Références".
+<details>
+        <summary>Media coverage</summary>
+    
+            <a href="https://www.challenges.fr/emploi/marche-de-l-emploi/pourquoi-le-marche-du-travail-francais-ne-se-polarise-comme-aux-etats-unis_514889">Challenges</a>,
+            <a href="https://www.lesechos.fr/2017/11/les-classes-moyennes-font-de-la-resistance-en-france-188546">Les Échos</a>,
+            <a href="https://www.liberation.fr/france/2017/11/21/l-insee-portraitiste-d-une-france-temperee_1611493">Libération</a>.
+   </details>
+   
+<p></p>
 
 * ["Les évolutions annuelles de revenu salarial le long de l’échelle salariale : quels constats selon l’âge,
 le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=2122750), with L. Wilner, in *Emploi, chômage et revenus d’activité*, coll. "Insee Références".
