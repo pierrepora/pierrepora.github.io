@@ -86,4 +86,4 @@ le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=
 
 * ["Le revenu salarial s’établit à 20 350 euros en moyenne en 2013"](https://www.insee.fr/fr/statistiques/2018997), Insee Focus 59.
 
-* ["La baisse des inégalités de revenu salarial marque une pause pendant la crise"](https://www.insee.fr/fr/statistiques/1288514?sommaire=1288529), with É. Coudin, B. Marc and L. Wilner., in *France, portrait social*, coll. "Insee Références". 
+* ["La baisse des inégalités de revenu salarial marque une pause pendant la crise"](https://www.insee.fr/fr/statistiques/1288514?sommaire=1288529), with É. Coudin, B. Marc and L. Wilner, in *France, portrait social*, coll. "Insee Références". 
