@@ -85,7 +85,7 @@ title: Research
 
 # Work in progress
 
-* **"Affordable Collective Childcare and Parental Earnings in France". \[draft coming soon\]**
+* **"Keep Working and Spend Less? Collective Childcare and Parental Earnings in France". \[draft coming soon\]**
     <details>
         <summary>Abstract</summary>
     
