@@ -4,7 +4,7 @@ title: Research
 
 # Published papers
 
-* **["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with L. Wilner. *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
+* **["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
     <details>
       <summary>Abstract</summary>
             
@@ -19,7 +19,7 @@ title: Research
   </details>
   <p></p>
 
-* **["Gender Equality on the Labour Market in France: A Slow Convergence Hampered by Motherhood"](https://www.insee.fr/en/statistiques/4253144?sommaire=4253180), with D. Meurs. *Economie et Statistique / Economics and Statistics*, 510-511-512, 109-130, 2019.**
+* **["Gender Equality on the Labour Market in France: A Slow Convergence Hampered by Motherhood"](https://www.insee.fr/en/statistiques/4253144?sommaire=4253180), with [D. Meurs](https://sites.google.com/view/dominique-meurs/home). *Economie et Statistique / Economics and Statistics*, 510-511-512, 109-130, 2019.**
     <details>
         <summary>Abstract</summary>
             
@@ -36,7 +36,7 @@ title: Research
 
     <p></p>
 
-* **["The individual dynamics of wage income in France during the crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with L. Wilner. *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.**
+* **["The individual dynamics of wage income in France during the crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.**
     <details>
         <summary>Abstract</summary>
     
@@ -47,7 +47,7 @@ title: Research
 
 # Working papers
 
-* **["Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution"](http://crest.science/RePEc/wpstorage/2019-17.pdf), with L. Wilner. Working Paper CREST 2019-17.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
+* **["Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution"](http://crest.science/RePEc/wpstorage/2019-17.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). Working Paper CREST 2019-17.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
     
@@ -93,7 +93,7 @@ title: Research
     </details>
     <p></p>
 
-* **"Short-Term Contracts, Long-Term Consequences?", with O. Bonnet and S. Georges-Kot.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950).
+* **"Short-Term Contracts, Long-Term Consequences?", with O. Bonnet and [S. Georges-Kot](https://sgskt.github.io/).** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950).
     <details>
         <summary>Media coverage</summary>
     
