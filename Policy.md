@@ -60,6 +60,7 @@ title: Policy writing
         <summary>Media coverage</summary>
     
             <a href="https://www.challenges.fr/emploi/marche-de-l-emploi/pourquoi-le-marche-du-travail-francais-ne-se-polarise-comme-aux-etats-unis_514889">Challenges</a>,
+            <a href=https://lentreprise.lexpress.fr/actualites/1/actualites/en-france-un-marche-du-travail-moins-polarise-qu-aux-usa-insee_1962604.html>L'Express</a>
             <a href="https://www.lesechos.fr/2017/11/les-classes-moyennes-font-de-la-resistance-en-france-188546">Les Échos</a>,
             <a href="https://www.liberation.fr/france/2017/11/21/l-insee-portraitiste-d-une-france-temperee_1611493">Libération</a>.
    </details>
