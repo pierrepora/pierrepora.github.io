@@ -5,7 +5,7 @@ My full CV is available [here](CV.pdf).
 
 # Employment
 
-* *Sept 2020-: **Economist**, Medical Professions unit, [Drees](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/) (statistical and research office of the Ministry of Health and Social Policy).*
+* Sept 2020-: **Economist**, Medical Professions unit, [Drees](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/) (statistical and research office of the Ministry of Health and Social Policy).
 
 * 2017-Sept 2020: **Economist**, Markets and Firms unit, [Insee](https://insee.fr/fr/accueil) (French National Institute of Statistics and Economic Studies).
 
