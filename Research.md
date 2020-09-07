@@ -47,6 +47,22 @@ title: Research
 
 # Working papers
 
+*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France"](https://insee.fr/en/statistiques/4651904). Working Paper Insee G2020/05.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
+    <details>
+        <summary>Abstract</summary>
+    
+        I leverage the staggered expansion of subsidized childcare institutions across municipalities, induced by a succession of national plans, to investigate the effect of collective childcare on parents' labor outcomes and childcare choices in France between 2007 and 2015. These plans did not lead to any substantial change neither in the labor outcomes of parents nor in the take-up of paid parental leave. Instead, these collective childcare expansions crowded out more costly formal childcare solutions, such as childminders or at-home childcare. These crowding-out effects highlight a downside of family policy strategies that foster the coexistence of multiple childcare arrangements.
+    </details>
+    
+     <details>
+        <summary>Media coverage</summary>
+    
+        <a href="https://www.bfmtv.com/economie/la-forte-hausse-du-nombre-de-places-en-creche-n-a-pas-dope-l-emploi-des-femmes_AN-202009070255.html">BFMTV</a>,
+        <a href="https://www.lesechos.fr/politique-societe/societe/sur-le-marche-du-travail-les-meres-ne-profitent-pas-de-la-creation-de-places-en-creche-1240147">Les Échos</a>.
+    </details>
+    
+    <p></p>
+
 * **["Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution"](http://crest.science/RePEc/wpstorage/2019-17.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). Working Paper CREST 2019-17.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
@@ -83,21 +99,6 @@ title: Research
 
     <p></p>
     
-*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France"](https://insee.fr/en/statistiques/4651904). Working Paper Insee G2020/05.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
-    <details>
-        <summary>Abstract</summary>
-    
-        I leverage the staggered expansion of subsidized childcare institutions across municipalities, induced by a succession of national plans, to investigate the effect of collective childcare on parents' labor outcomes and childcare choices in France between 2007 and 2015. These plans did not lead to any substantial change neither in the labor outcomes of parents nor in the take-up of paid parental leave. Instead, these collective childcare expansions crowded out more costly formal childcare solutions, such as childminders or at-home childcare. These crowding-out effects highlight a downside of family policy strategies that foster the coexistence of multiple childcare arrangements.
-    </details>
-    
-     <details>
-        <summary>Media coverage</summary>
-    
-        <a href="https://www.bfmtv.com/economie/la-forte-hausse-du-nombre-de-places-en-creche-n-a-pas-dope-l-emploi-des-femmes_AN-202009070255.html">BFMTV</a>,
-        <a href="https://www.lesechos.fr/politique-societe/societe/sur-le-marche-du-travail-les-meres-ne-profitent-pas-de-la-creation-de-places-en-creche-1240147">Les Échos</a>.
-    </details>
-    
-    <p></p>
 
 # Work in progress
 
