@@ -4,6 +4,16 @@ title: Policy writing
 
 # Policy (in French)
 
+* ["Accroître l’offre de places en crèche : peu d’effet sur l’emploi, une baisse du recours aux autres modes de garde"](https://insee.fr/fr/statistiques/4652808), Insee Analyses 55.   
+     <details>
+        <summary>Media coverage</summary>
+    
+        <a href="https://www.bfmtv.com/economie/la-forte-hausse-du-nombre-de-places-en-creche-n-a-pas-dope-l-emploi-des-femmes_AN-202009070255.html">BFMTV</a>,
+        <a href="https://www.lesechos.fr/politique-societe/societe/sur-le-marche-du-travail-les-meres-ne-profitent-pas-de-la-creation-de-places-en-creche-1240147">Les Échos</a>.
+    </details>
+    
+    <p></p>
+
 * ["Les trajectoires professionnelles des femmes les moins bien rémunérées sont les plus affectées par la naissance d’un enfant"](https://insee.fr/fr/statistiques/4226475), with L. Wilner, Insee Analyses 48.
     <details>
         <summary>Media coverage</summary>
