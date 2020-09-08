@@ -58,6 +58,10 @@ title: Research
         <summary>Media coverage</summary>
     
         <a href="https://www.bfmtv.com/economie/la-forte-hausse-du-nombre-de-places-en-creche-n-a-pas-dope-l-emploi-des-femmes_AN-202009070255.html">BFMTV</a>,
+        <a href="https://www.europe1.fr/societe/laugmentation-des-places-en-creche-a-eu-peu-deffet-sur-lemploi-des-meres-selon-linsee-3990331">Europe 1</a>,
+        <a href="https://www.laprovence.com/actu/en-direct/6100926/laugmentation-des-places-en-creche-na-eu-que-peu-deffet-sur-lemploi-des-meres-selon-linsee.html">La Provence</a>,
+        <a href="https://www.lefigaro.fr/social/creer-des-creches-a-peu-d-impact-sur-l-emploi-des-femmes-20200907">Le Figaro</a>,
+         <a href="https://www.leparisien.fr/societe/les-meres-des-jeunes-enfants-n-ont-pas-beneficie-de-l-augmentation-des-places-en-creche-07-09-2020-8380308.php">Le Parisien</a>,
         <a href="https://www.lesechos.fr/politique-societe/societe/sur-le-marche-du-travail-les-meres-ne-profitent-pas-de-la-creation-de-places-en-creche-1240147">Les Échos</a>.
     </details>
     
