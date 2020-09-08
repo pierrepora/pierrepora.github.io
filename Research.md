@@ -47,7 +47,7 @@ title: Research
 
 # Working papers
 
-*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France"](https://insee.fr/en/statistiques/4651904). Working Paper Insee G2020/05.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
+*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France"](https://insee.fr/en/statistiques/fichier/version-html/4651904/G2020-05.pdf). Working Paper Insee G2020/05.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
     <details>
         <summary>Abstract</summary>
     
