@@ -65,7 +65,7 @@ title: Research
         <a href="https://www.lefigaro.fr/social/creer-des-creches-a-peu-d-impact-sur-l-emploi-des-femmes-20200907">Le Figaro</a>,
          <a href="https://www.leparisien.fr/societe/les-meres-des-jeunes-enfants-n-ont-pas-beneficie-de-l-augmentation-des-places-en-creche-07-09-2020-8380308.php">Le Parisien</a>,
         <a href="https://www.lesechos.fr/politique-societe/societe/sur-le-marche-du-travail-les-meres-ne-profitent-pas-de-la-creation-de-places-en-creche-1240147">Les Échos</a>,
-        <a href="https://lesprosdelapetiteenfance.fr/vie-professionnelle/paroles-de-pro/chroniques/les-chroniques-de-pierre-moisset/de-la-faible-utilite-des-creches-par-pierre-moisset">Les Pros de la Petite Enfance</a>
+        <a href="https://lesprosdelapetiteenfance.fr/vie-professionnelle/paroles-de-pro/chroniques/les-chroniques-de-pierre-moisset/de-la-faible-utilite-des-creches-par-pierre-moisset">Les Pros de la Petite Enfance</a>,
         <a href="https://www.maire-info.com/petite-enfance/selon-l'insee-l'accroissement-du-nombre-de-places-en-creche-n'influe-pas-(encore)-sur-l'emploi-des-meres-article-24473">Maire Info</a>.
     </details>
     
