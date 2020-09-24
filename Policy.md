@@ -9,6 +9,7 @@ title: Policy writing
         <summary>Media coverage</summary>
     
         <a href="https://www.bfmtv.com/economie/la-forte-hausse-du-nombre-de-places-en-creche-n-a-pas-dope-l-emploi-des-femmes_AN-202009070255.html">BFMTV</a>,
+        <a href="https://www.espace-social.com/augmentation-du-nombre-de-places-en-creches-un-effet-limite-sur-lemploi-des-meres-insee/">Espace Social Européen</a>,
         <a href="https://www.europe1.fr/societe/laugmentation-des-places-en-creche-a-eu-peu-deffet-sur-lemploi-des-meres-selon-linsee-3990331">Europe 1</a>,
         <a href="https://www.lassmat.fr/actualites/nouvelles-professionnelles/places-en-creche-effets-limites-pour-l-emploi-et-negatifs-pour">L'Assmat</a>,
         <a href="https://www.laprovence.com/actu/en-direct/6100926/laugmentation-des-places-en-creche-na-eu-que-peu-deffet-sur-lemploi-des-meres-selon-linsee.html">La Provence</a>,
