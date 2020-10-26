@@ -16,8 +16,8 @@ My full CV is available [here](CV.pdf).
 
 # Education
 
-* 2018-2021 (expected): **Ph.D.** in Economics, [Université Paris Nanterre (EconomiX)](https://economix.fr/en). Advisor: Dominique Meurs.
+* 2018-2021 (expected): **Ph.D.** [Université Paris Nanterre (EconomiX)](https://economix.fr/en), Economics. Advisor: Dominique Meurs.
 
-* 2014: **M.Sc.** Data Science and Social Sciences, [Ensae Paris](https://www.ensae.fr/).
+* 2014: **M.Sc.** [Ensae Paris](https://www.ensae.fr/), Data Science and Social Sciences.
 
-* 2012: **B.Sc.** Physics and Mathematics, [École Polytechnique](https://www.polytechnique.edu/) (*ingénieur polytechnicien* program).
+* 2012: **B.Sc.** [École Polytechnique](https://www.polytechnique.edu/), Physics and Mathematics (*ingénieur polytechnicien* program).
