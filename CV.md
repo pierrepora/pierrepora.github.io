@@ -20,4 +20,4 @@ My full CV is available [here](CV.pdf).
 
 * 2014: **M.Sc.** in Data Science and Social Sciences, [Ensae Paris](https://www.ensae.fr/).
 
-* 2012: **B.Sc.** in Physics and Mathematics, [École Polytechnique](https://www.polytechnique.edu/)  (*ingénieur polytechnicien* program).
+* 2012: **M.Sc.** in Physics and Mathematics, [École Polytechnique](https://www.polytechnique.edu/)  (*ingénieur polytechnicien* program).
