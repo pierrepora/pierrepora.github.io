@@ -47,7 +47,7 @@ title: Research
 
 # Working papers
 
-*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France"](https://economix.fr/pdf/dt/2020/WP_EcoX_2020-29.pdf?1.0). EconomiX working paper 2020-29.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
+*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France"](https://economix.fr/pdf/dt/2020/WP_EcoX_2020-29.pdf?1.0). EconomiX Working Paper 2020-29.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
     <details>
         <summary>Abstract</summary>
     
@@ -72,7 +72,7 @@ title: Research
     
     <p></p>
 
-* **["Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution"](http://crest.science/RePEc/wpstorage/2019-17.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). Working Paper CREST 2019-17.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
+* **["Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution"](http://crest.science/RePEc/wpstorage/2019-17.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). CREST Working Paper 2019-17.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
     
