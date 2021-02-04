@@ -47,7 +47,7 @@ title: Research
 
 # Working papers
 
-*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France" (latest draft)](Pora_Childcare_Feb21). [EconomiX Working Paper 2020-29](https://economix.fr/pdf/dt/2020/WP_EcoX_2020-29.pdf?1.0).** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
+*  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France" (latest draft)](Pora_Childcare_Feb21.pdf). [EconomiX Working Paper 2020-29](https://economix.fr/pdf/dt/2020/WP_EcoX_2020-29.pdf?1.0).** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
     <details>
         <summary>Abstract</summary>
     
