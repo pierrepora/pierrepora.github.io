@@ -9,7 +9,11 @@ Les enseignements très partiels de la littérature](https://blog.insee.fr/comme
      <details>
         <summary>Media coverage</summary>
     
-        <a href="https://www.alternatives-economiques.fr/on-plus-productif-teletravail/00094959">Alternatives Économiques</a>.
+        <a href="https://www.alternatives-economiques.fr/on-plus-productif-teletravail/00094959">Alternatives Économiques</a>,
+        <a href="https://www.challenges.fr/economie/bataille-d-economistes-autour-de-la-productivite-du-teletravail_738150">Challenges</a>,
+        <a href="https://www.info-socialrh.fr/bibliotheque-numerique/entreprise-et-carrieres/1504/les-cles/sans-preparation-ni-volontariat-le-teletravail-pourrait-nuire-a-la-productivite-628278.php">Entreprise & Carrières</a>,
+        <a href="https://www.latribune.fr/economie/france/teletravail-quel-impact-economique-et-social-862168.html">La Tribune</a>,
+        <a href="https://www.lefigaro.fr/conjoncture/le-teletravail-est-il-favorable-a-la-croissance-economique-20210215">Le Figaro</a>.
     </details>
     
     <p></p>
