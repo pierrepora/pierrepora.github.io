@@ -6,6 +6,13 @@ title: Policy writing
 
 * [Comment le télétravail affecte-t-il la productivité des entreprises ?
 Les enseignements très partiels de la littérature](https://blog.insee.fr/comment-le-teletravail-affecte-t-il-la-productivite-des-entreprises-les-enseignements-tres-partiels-de-la-litterature/), Blog de l'Insee, 2020.
+     <details>
+        <summary>Media coverage</summary>
+    
+        <a href="https://www.alternatives-economiques.fr/on-plus-productif-teletravail/00094959">Alternatives Économiques</a>.
+    </details>
+    
+    <p></p>
 
 * ["Accroître l’offre de places en crèche : peu d’effet sur l’emploi, une baisse du recours aux autres modes de garde"](https://insee.fr/fr/statistiques/4652808), Insee Analyses 55, 2020.   
      <details>
