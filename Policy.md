@@ -12,7 +12,8 @@ Les enseignements très partiels de la littérature](https://blog.insee.fr/comme
         <a href="https://www.alternatives-economiques.fr/on-plus-productif-teletravail/00094959">Alternatives Économiques</a>,
         <a href="https://www.challenges.fr/economie/bataille-d-economistes-autour-de-la-productivite-du-teletravail_738150">Challenges</a>,
         <a href="https://www.info-socialrh.fr/bibliotheque-numerique/entreprise-et-carrieres/1504/les-cles/sans-preparation-ni-volontariat-le-teletravail-pourrait-nuire-a-la-productivite-628278.php">Entreprise & Carrières</a>,
-        <a href="https://www.france24.com/fr/%C3%A9co-tech/20210316-le-t%C3%A9l%C3%A9travail-fausse-success-story-%C3%A9conomique-de-cette-ann%C3%A9e-de-pand%C3%A9mie">France 24</a>,
+        <a href="https://www.usinenouvelle.com/article/apres-un-an-de-crise-sanitaire-l-impact-du-teletravail-sur-la-productivite-reste-difficile-a-evaluer.N1072454">L'Usine Nouvelle</a>,
+        <a href="https://www.latribune.fr/economie/france/teletravail-quel-impact-economique-et-social-862168.html">La Tribune</a>,
         <a href="https://www.latribune.fr/economie/france/teletravail-quel-impact-economique-et-social-862168.html">La Tribune</a>,
         <a href="https://www.lefigaro.fr/conjoncture/le-teletravail-est-il-favorable-a-la-croissance-economique-20210215">Le Figaro</a>.
     </details>
