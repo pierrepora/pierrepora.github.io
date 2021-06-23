@@ -1,7 +1,7 @@
 ---
 title: Teaching
 ---
-* 2021-    : Causal inference and modelling, [Quantitvative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS.
+* 2021-    : Causal inference and modelling, [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS.
 
 * 2020-    : Teamworks in applied economics, [PPD Master](https://www.parisschoolofeconomics.eu/en/teaching/masters-program/ppd-public-policy-and-development/), PSE.
 
