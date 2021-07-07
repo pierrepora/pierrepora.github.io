@@ -111,7 +111,7 @@ title: Research
 
 # Work in progress
 
-* **"Do children explain nurses shortages?"** draft available soon.
+* **"Do children explain nurses shortages?"**, draft available soon.
 
 * **"Short-Term Contracts, Long-Term Consequences?", with O. Bonnet and [S. Georges-Kot](https://sgskt.github.io/).** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950).
     <details>
