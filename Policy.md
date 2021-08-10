@@ -14,7 +14,6 @@ Les enseignements très partiels de la littérature](https://blog.insee.fr/comme
         <a href="https://www.info-socialrh.fr/bibliotheque-numerique/entreprise-et-carrieres/1504/les-cles/sans-preparation-ni-volontariat-le-teletravail-pourrait-nuire-a-la-productivite-628278.php">Entreprise & Carrières</a>,
         <a href="https://www.usinenouvelle.com/article/apres-un-an-de-crise-sanitaire-l-impact-du-teletravail-sur-la-productivite-reste-difficile-a-evaluer.N1072454">L'Usine Nouvelle</a>,
         <a href="https://www.latribune.fr/economie/france/teletravail-quel-impact-economique-et-social-862168.html">La Tribune</a>,
-        <a href="https://www.latribune.fr/economie/france/teletravail-quel-impact-economique-et-social-862168.html">La Tribune</a>,
         <a href="https://www.lefigaro.fr/conjoncture/le-teletravail-est-il-favorable-a-la-croissance-economique-20210215">Le Figaro</a>.
     </details>
     [Here](https://www.dailymotion.com/video/x81ibx8) is a video of a presentation I made of this survey of the literature.
