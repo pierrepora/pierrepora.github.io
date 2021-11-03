@@ -113,6 +113,8 @@ title: Research
 
 * **"Do children explain nurses shortages?"**, draft available soon.
 
+* **'Job Displacement, Families and Redistribution", with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, draft available soon.
+
 * **"Short-Term Contracts, Long-Term Consequences?", with O. Bonnet and [S. Georges-Kot](https://sgskt.github.io/).** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950).
     <details>
         <summary>Media coverage</summary>
