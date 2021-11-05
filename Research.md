@@ -4,7 +4,7 @@ title: Research
 
 # Published papers
 
-* **["A decomposition of labor earnings growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
+* **["A Decomposition of Labor Earnings Growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
     <details>
       <summary>Abstract</summary>
             
@@ -36,7 +36,7 @@ title: Research
 
     <p></p>
 
-* **["The individual dynamics of wage income in France during the crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.**
+* **["The Individual Dynamics of Wage Income in France During the Crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.**
     <details>
         <summary>Abstract</summary>
     
@@ -111,7 +111,7 @@ title: Research
 
 # Work in progress
 
-* **"Do children explain nurses shortages?"**, draft available soon.
+* **"Do Children Explain Nurses Shortages?"**, draft available soon.
 
 * **"Job Displacement, Families and Redistribution", with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, draft available soon.
 
