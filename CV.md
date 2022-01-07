@@ -1,7 +1,7 @@
 ---
 title: CV
 ---
-My full CV is available [here](CV_en_Pora.pdf).
+My full CV is available [here](CV_Pora_en.pdf).
 
 # Employment
 
@@ -16,7 +16,7 @@ My full CV is available [here](CV_en_Pora.pdf).
 
 # Education
 
-* 2018-2021 (expected): **Ph.D.** in Economics, [Université Paris Nanterre (EconomiX)](https://economix.fr/en), Economics. Advisor: Dominique Meurs.
+* 2018-2021 : **Ph.D.** in Economics, [Université Paris Nanterre (EconomiX)](https://economix.fr/en), Economics. Advisor: Dominique Meurs.
 
 * 2014: **M.S.** in Data Science and Social Sciences, [Ensae Paris](https://www.ensae.fr/).
 
