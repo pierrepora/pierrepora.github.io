@@ -47,7 +47,7 @@ title: Research
 
 # Invited contributions
 
-* **["Telework and Productivity Three Years After the Start of the Pandemic"]([https://www.insee.fr/en/statistiques/4253144?sommaire=4253180](https://www.insee.fr/en/statistiques/7647331?sommaire=7647685)). *Economie et Statistique / Economics and Statistics*, 539, 91-96, 2023.**
+* **["Telework and Productivity Three Years After the Start of the Pandemic"](https://www.insee.fr/en/statistiques/7647331?sommaire=7647685). *Economie et Statistique / Economics and Statistics*, 539, 91-96, 2023.**
     <details>
         <summary>Abstract</summary>
             
