@@ -1,7 +1,7 @@
 ---
 title: Teaching
 ---
-* 2021-    : Causal inference and modelling, [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS, with O. Godechot.
+* 2021-2023    : Causal inference and modelling, [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS, with O. Godechot.
   * A (very preliminary) version of the content of this class is available [here](https://pierrepora.github.io/inference_causale/) in French
   * Slides (in French)
     * Lecture 1
