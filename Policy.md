@@ -4,6 +4,21 @@ title: Policy writing
 
 # Policy (in French)
 
+* ["Près d’une infirmière hospitalière sur deux a quitté l’hôpital ou changé de métier après dix ans de carrière"](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf), Études et Résultats 1277, 2023.   
+     <details>
+        <summary>Media coverage</summary>
+     
+        <a href="https://www.20minutes.fr/societe/4049914-20230824-sante-apres-dix-ans-carriere-moitie-infirmieres-quittent-hopital-changent-metier">20 Minutes</a>,
+        <a href="https://www.francetvinfo.fr/sante/hopital/crise/departs-massifs-d-infirmieres-c-est-du-gachis-humain-et-social-deplore-le-syndicat-national-des-professionnels-infirmiers_6023210.html">France Info</a>,
+        <a href="https://www.la-croix.com/Sciences-et-ethique/infirmieres-sont-nombreuses-quitter-lhopital-2023-08-24-1201279896">La Croix</a>,
+        <a href="https://www.lefigaro.fr/conjoncture/pres-d-une-infirmiere-sur-deux-a-quitte-l-hopital-ou-change-de-metier-apres-dix-ans-de-carriere-20230824">Le Figaro</a>,
+        <a href="https://www.lesechos.fr/economie-france/social/les-infirmieres-toujours-plus-nombreuses-a-quitter-lhopital-1972018">Les Échos</a>,
+        <a href="https://www.liberation.fr/societe/sante/apres-dix-ans-de-carriere-pres-de-la-moitie-des-infirmieres-hospitalieres-ont-jete-leponge-20230824_NVATMZZA5BCBVFIHEZAH4PNOXM/">Libération</a>,
+        <a href="https://information.tv5monde.com/terriennes/france-les-infirmieres-oubliees-sous-payees-2665338">TV5Monde</a>
+    </details>
+    
+    <p></p>
+
 * [Comment le télétravail affecte-t-il la productivité des entreprises ?
 Les enseignements très partiels de la littérature](https://blog.insee.fr/comment-le-teletravail-affecte-t-il-la-productivite-des-entreprises-les-enseignements-tres-partiels-de-la-litterature/), Blog de l'Insee, 2020.
      <details>
