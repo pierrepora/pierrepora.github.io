@@ -122,7 +122,7 @@ title: Research
 
 # Work in progress
 
-* **"Do Children Explain Nurses Shortages?"**, draft available soon.
+* **"Do Children Explain Nurses Shortages?"**, [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
 
 * **"Job Displacement, Families and Redistribution", with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, draft available soon.
 
