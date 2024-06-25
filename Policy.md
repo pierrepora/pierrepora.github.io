@@ -4,7 +4,7 @@ title: Policy writing
 
 # Policy (in French)
 
-* ["L’indemnisation des accidents du travail avec incapacité permanente compense-t-elle leurs conséquences financières ?"](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/230411_DD117_AccidentsTravail), Dossiers de la Drees 117, 2024.   
+* ["L’indemnisation des accidents du travail avec incapacité permanente compense-t-elle leurs conséquences financières ?"](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/230411_DD117_AccidentsTravail), with R. Lardeux, Dossiers de la Drees 117, 2024.   
      <details>
         <summary>Media coverage</summary>
      
