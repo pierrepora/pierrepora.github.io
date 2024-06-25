@@ -149,5 +149,6 @@ title: Research
         <a href="https://www.liberation.fr/france/2019/07/02/chomage-disette-salariale-le-difficile-parcours-professionnel-des-cdd_1737517">Libération</a>,
         <a href="http://rebondir.fr/actualites-emploi/les-contrats-a-duree-limitee-entre-tremplins-pour-une-carriere-et-trappes-a-precarite-insee-02072019">Rebondir</a>.
     </details>
+    
     <p></p>
 
