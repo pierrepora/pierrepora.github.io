@@ -140,6 +140,8 @@ le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=
 
 # Other non-academic publications
 
+* ["Partager son logement au-delà du noyau familial : des disparités régionales qui persistent"](https://www.insee.fr/fr/statistiques/7749698), with F. Daguet, Insee Première 1980, 2024.
+
 * ["Les trajectoires d’emploi des contractuels entre 2009 et 2015"](https://www.fonction-publique.gouv.fr/files/files/statistiques/rapports_annuels/2019/07_Dossier-Cotractuels_trajectoires-2019.pdf), with O. Bonnet and S. Georges-Kot, in *Rapport annuel sur l’état de la fonction publique*, 2019.
 
 * ["Le revenu salarial s’établit à 20 670 euros en moyenne en 2014"](https://www.insee.fr/fr/statistiques/2560524), Insee Focus 75, 2017.
