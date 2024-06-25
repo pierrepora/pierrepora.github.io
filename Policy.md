@@ -4,6 +4,16 @@ title: Policy writing
 
 # Policy (in French)
 
+* ["L’indemnisation des accidents du travail avec incapacité permanente compense-t-elle leurs conséquences financières ?"](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/230411_DD117_AccidentsTravail), Dossiers de la Drees 117, 2024.   
+     <details>
+        <summary>Media coverage</summary>
+     
+        <a href="https://www.info-socialrh.fr/conditions-de-travail/accidents-de-travail/accidents-du-travail-une-reinsertion-dans-lemploi-compromise-899936.php">Info Social RH</a>,
+        <a href="https://www.sante-et-travail.fr/accidents-du-travail-tres-cher-payes-victimes">Santé & Travail</a>
+    </details>
+    
+    <p></p>
+
 * ["Près d’une infirmière hospitalière sur deux a quitté l’hôpital ou changé de métier après dix ans de carrière"](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf), Études et Résultats 1277, 2023.   
      <details>
         <summary>Media coverage</summary>
