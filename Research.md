@@ -131,24 +131,5 @@ title: Research
 
 * **"Job Displacement, Families and Redistribution", with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, draft available soon.
 
-* **"Short-Term Contracts, Long-Term Consequences?", with O. Bonnet and [S. Georges-Kot](https://sgskt.github.io/).** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950).
-    <details>
-        <summary>Media coverage</summary>
-    
-        <a href="https://www.20minutes.fr/economie/2554827-20190702-cdd-vraiment-tremplin-vers-cdi-vers-belle-carriere">20 Minutes</a>,
-        <a href="https://www.bfmtv.com/economie/contrats-courts-un-premier-pas-vers-un-cdi-ou-un-piege-a-precaires-1724102.html">BFMTV</a>,
-        <a href="https://www.challenges.fr/emploi/les-contrats-courts-sont-ils-enferment-ils-dans-la-precarite_662081">Challenges</a>,
-        <a href="https://www.francetvinfo.fr/economie/emploi/emploi-le-cdd-ne-debouche-pas-forcement-sur-le-cdi_3519703.html">France 3</a>,
-        <a href="https://www.francebleu.fr/infos/economie-social/moins-d-un-cdd-sur-deux-mene-a-un-cdi-selon-l-insee-1562125248">France Bleu</a>,
-        <a href="https://www.franceinter.fr/les-contrats-precaires-ont-de-plus-en-plus-de-mal-a-se-trouver-une-place-dans-le-marche-du-travail">France Inter</a>,
-        <a href="https://lentreprise.lexpress.fr/rh-management/recrutement/cdd-des-chiffres-explosifs_2087447.html">L'Express</a>,
-        <a href="https://www.la-croix.com/Economie/Social/jeunes-contrat-court-tremplin-vers-lemploi-2019-07-02-1201032894">La Croix</a>,
-        <a href="https://www.latribune.fr/economie/france/a-peine-1-salarie-sur-2-en-cdd-est-en-cdi-sept-ans-plus-tard-822433.html">La Tribune</a>,
-        <a href="https://www.lefigaro.fr/decideurs/les-contrats-courts-juges-comme-precaires-facilitent-aussi-l-insertion-professionnelle-20190706">Le Figaro</a>,
-        <a href="https://www.lesechos.fr/economie-france/social/contrats-courts-linsee-accredite-la-these-de-la-trappe-a-precarite-1035069">Les Échos</a>,
-        <a href="https://www.liberation.fr/france/2019/07/02/chomage-disette-salariale-le-difficile-parcours-professionnel-des-cdd_1737517">Libération</a>,
-        <a href="http://rebondir.fr/actualites-emploi/les-contrats-a-duree-limitee-entre-tremplins-pour-une-carriere-et-trappes-a-precarite-insee-02072019">Rebondir</a>.
-    </details>
-    
-    <p></p>
+* **"Do Gender-Related Attitudes Explain the Child Penalty? The Case of Immigrants in France", with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique)**, draft available soon.
 
