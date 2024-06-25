@@ -54,7 +54,12 @@ title: Research
             Since March 2020, the COVID‑19 pandemic has caused many companies and employees to turn to telework. The articles by Bergeaud et al. (2023) and Criscuolo et al. (2023) document the effects of telework on productivity in detail and, more broadly, its effects on the behaviour of companies and employees, both before and during the health crisis. This commentary discusses their findings in terms of the uncertain knowledge that was available on the effects of telework before the health crisis, as well as the technical and conceptual difficulties raised by estimating the consequences of telework. Finally, it examines the apparent paradox whereby, despite its positive effects on both the productive efficiency of companies and the working conditions of employees, teleworking remained rare prior to 2020.
     </details>
     
-    <p></p>
+  <details>
+    <summary>Media coverage</summary>
+  
+        <a href="https://www.lexpress.fr/economie/absenteisme-productivite-en-berne-le-travail-ce-nouveau-mal-francais-QOQPJCVXTZF5HF2WWXXGWWPSTU/">L'Express</a>.
+  </details>
+  <p></p>
 
 # Working papers
 
