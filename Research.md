@@ -4,7 +4,7 @@ title: Research
 
 # Published papers
 
-* **["Dissecting Child Penalties"](http://crest.science/RePEc/wpstorage/2019-17.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). accepted *ILR Review*.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
+* **["Dissecting Child Penalties"](Dissecting-Child-Penalties.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). accepted *ILR Review*.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
     
