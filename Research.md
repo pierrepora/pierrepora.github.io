@@ -126,7 +126,10 @@ title: Research
       <summary>Abstract</summary>
 
     We leverage French longitudinal data issued from multiple administrative registers to investigate how job loss affects couple and family structure, spouses' labor supply and lastly all components that combine into household's disposable income. Our difference-in-difference estimates imply close to no effect of these large income and employment shocks on couple formation and dissolution, and fertility decisions. Spouses do not seem to adjust their labor supply in response to their partners' job loss. In the short run, unemployment insurance divides the magnitude of the income shock by a factor 2 to 3. By contrast, it provides very little insurance against the permanent component of the shock against which households are partially insured at best. These results hold regardless of the gender of the laid-off worker.
-  </details>
+    </details>
+    
+    <p></p>
+
 
 *  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France" (latest draft)](Childcare_Pora_Feb21.pdf). EconomiX Working Paper 2020-29.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
     <details>
