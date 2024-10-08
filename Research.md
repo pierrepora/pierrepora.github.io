@@ -99,6 +99,35 @@ title: Research
 
 # Working papers
 
+* **["Do Children Explain Nurses Shortages?"**](http://www.jms-insee.fr/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022.** *in revision* [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+  <details>
+      <summary>Abstract</summary>
+
+    Soon after they land their first job at a hospital, many French nurses become mothers and decrease their hours worked in the salaried sector. I quantify the contribution of motherhood to the labor supply lifecycle profile of French hospital nurses. My event-study estimates, based on administrative registers, show that children cause female nurses to decrease their hours worked in the salaried sector by 0.15 full-time units in average. This decrease is entirely driven by the intensive margin of labor supply, as children do not induce nurses neither to leave salaried employment nor to turn to other jobs.  Motherhood explains over a third of the drop in average hours worked in the salaried sector over the first ten years of a career, and half of the decline in nursing labor supplied to the public sector.
+  </details>
+  <details>
+        <summary>Media coverage</summary>
+     
+        <a href="https://www.20minutes.fr/societe/4049914-20230824-sante-apres-dix-ans-carriere-moitie-infirmieres-quittent-hopital-changent-metier">20 Minutes</a>,
+        <a href="https://www.francetvinfo.fr/sante/hopital/crise/departs-massifs-d-infirmieres-c-est-du-gachis-humain-et-social-deplore-le-syndicat-national-des-professionnels-infirmiers_6023210.html">France Info</a>,
+        <a href="https://www.la-croix.com/Sciences-et-ethique/infirmieres-sont-nombreuses-quitter-lhopital-2023-08-24-1201279896">La Croix</a>,
+        <a href="https://www.lefigaro.fr/conjoncture/pres-d-une-infirmiere-sur-deux-a-quitte-l-hopital-ou-change-de-metier-apres-dix-ans-de-carriere-20230824">Le Figaro</a>,
+        <a href="https://www.lesechos.fr/economie-france/social/les-infirmieres-toujours-plus-nombreuses-a-quitter-lhopital-1972018">Les Échos</a>,
+        <a href="https://www.liberation.fr/societe/sante/apres-dix-ans-de-carriere-pres-de-la-moitie-des-infirmieres-hospitalieres-ont-jete-leponge-20230824_NVATMZZA5BCBVFIHEZAH4PNOXM/">Libération</a>,
+        <a href="https://www.vie-publique.fr/en-bref/290751-hopital-les-departs-dinfirmieres-plus-nombreux">Vie publique</a>,
+        <a href="https://information.tv5monde.com/terriennes/france-les-infirmieres-oubliees-sous-payees-2665338">TV5Monde</a>
+    </details>
+    
+    <p></p>
+
+ * **["Job Displacement, Families and Redistribution"](http://www.jms-insee.fr/2022/S13_3_ACTE_LARDEUX-PORA_JMS2022.pdf), with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0), Actes des JMS 2022.**
+
+   <details>
+      <summary>Abstract</summary>
+
+    We leverage French longitudinal data issued from multiple administrative registers to investigate how job loss affects couple and family structure, spouses' labor supply and lastly all components that combine into household's disposable income. Our difference-in-difference estimates imply close to no effect of these large income and employment shocks on couple formation and dissolution, and fertility decisions. Spouses do not seem to adjust their labor supply in response to their partners' job loss. In the short run, unemployment insurance divides the magnitude of the income shock by a factor 2 to 3. By contrast, it provides very little insurance against the permanent component of the shock against which households are partially insured at best. These results hold regardless of the gender of the laid-off worker.
+  </details>
+
 *  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France" (latest draft)](Childcare_Pora_Feb21.pdf). EconomiX Working Paper 2020-29.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4652808).
     <details>
         <summary>Abstract</summary>
@@ -126,10 +155,6 @@ title: Research
     
 
 # Work in progress
-
-* **"Do Children Explain Nurses Shortages?"**, [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
-
-* **"Job Displacement, Families and Redistribution", with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, draft available soon.
 
 * **"Do Gender-Related Attitudes Explain the Child Penalty? The Case of Immigrants in France", with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique)**, draft available soon.
 
