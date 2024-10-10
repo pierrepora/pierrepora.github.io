@@ -121,7 +121,6 @@ title: Research
     <p></p>
 
  * **["Job Displacement, Families and Redistribution"](http://www.jms-insee.fr/2022/S13_3_ACTE_LARDEUX-PORA_JMS2022.pdf), with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0), Actes des JMS 2022.**
-
    <details>
       <summary>Abstract</summary>
 
