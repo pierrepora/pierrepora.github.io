@@ -99,7 +99,7 @@ title: Research
 
 # Working papers
 
-* **["Do Children Explain Nurses Shortages?"](http://www.jms-insee.fr/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022.** *in revision* [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+* **["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf)), Actes des JMS 2022.** *in revision* [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
   <details>
       <summary>Abstract</summary>
 
@@ -120,7 +120,7 @@ title: Research
     
     <p></p>
 
- * **["Job Displacement, Families and Redistribution"](http://www.jms-insee.fr/2022/S13_3_ACTE_LARDEUX-PORA_JMS2022.pdf), with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0), Actes des JMS 2022.**
+ * **["Job Displacement, Families and Redistribution"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_3_ACTE_LARDEUX-PORA_JMS2022.pdf), with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0), Actes des JMS 2022.**
    <details>
       <summary>Abstract</summary>
 
