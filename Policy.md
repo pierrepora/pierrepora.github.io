@@ -29,8 +29,8 @@ title: Policy writing
     
     <p></p>
 
-* [Comment le télétravail affecte-t-il la productivité des entreprises ?
-Les enseignements très partiels de la littérature](https://blog.insee.fr/comment-le-teletravail-affecte-t-il-la-productivite-des-entreprises-les-enseignements-tres-partiels-de-la-litterature/), Blog de l'Insee, 2020.
+* ["Comment le télétravail affecte-t-il la productivité des entreprises ?
+Les enseignements très partiels de la littérature"](https://blog.insee.fr/comment-le-teletravail-affecte-t-il-la-productivite-des-entreprises-les-enseignements-tres-partiels-de-la-litterature/), Blog de l'Insee, 2020.
      <details>
         <summary>Media coverage</summary>
     
