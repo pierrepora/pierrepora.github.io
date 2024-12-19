@@ -4,7 +4,7 @@ title: Research
 
 # Published papers
 
-* **["Dissecting Child Penalties"](Dissecting-Child-Penalties.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). accepted *ILR Review*.** [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
+* **["Dissecting Child Penalties"](Dissecting-Child-Penalties.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). accepted *ILR Review***, previously circulated as "Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution" (WP 2019-17 Crest) [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
     
