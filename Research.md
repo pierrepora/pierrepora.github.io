@@ -158,5 +158,5 @@ title: Research
 
 # Work in progress
 
-* **"Do Gender-Related Attitudes Explain the Child Penalty? The Case of Immigrants in France", with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique)**, draft available soon.
+* **"Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France", with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique)**, draft available soon.
 
