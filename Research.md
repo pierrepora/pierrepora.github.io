@@ -105,7 +105,8 @@ title: Research
 
     This study uses French survey data on immigrants to explore whether the child penalty is driven by traditional gender attitudes. The dataset includes individual perceptions of gender inequality and women's bodily autonomy, alongside fertility histories and labor market trajectories for immigrants living in France during 2019–2020. While women holding more traditional views are less likely to participate in the labor force overall, the child penalty does not appear to be larger for this group. Interestingly, the child penalty accounts for a significantly greater share of the gender gap in labor force participation among those with more egalitarian views. Comparative analyses across immigrants’ upbringing environments and countries of origin further support a causal interpretation of the absence of a relationship between traditional gender attitudes and the child penalty.
       </details>
-
+    
+    <p></p>
 
 * **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](Nurses_labor_supply_Pora_nov24.pdf)**, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. *in revision* [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
   <details>
