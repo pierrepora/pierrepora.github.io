@@ -99,7 +99,7 @@ title: Research
 
 # Working papers
 
-* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](Meurs_Pora_dec24.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique)**.
+* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](Meurs_Pora_dec24.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique). Economix Working Paper 2025-10.**.
     <details>
         <summary>Abstract</summary>
 
@@ -108,11 +108,11 @@ title: Research
     
     <p></p>
 
-* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](Nurses_labor_supply_Pora_nov24.pdf)**, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. *in revision* [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](Nurses_labor_supply_Pora_feb24.pdf)**, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. *in revision* [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
   <details>
       <summary>Abstract</summary>
 
-    This paper quantifies the supply of nursing labor in French hospitals over the course of hospital nurses careers, using detailed longitudinal payroll tax data matched with birth certificates and census data. Over the first ten years of a career, nursing hours supplied to hospitals decrease by over a third in average. This is mainly driven by hospital nurses no longer holding this kind of jobs, and to a lesser extent by transitions to part-time schedules within hospital nurses jobs. Hospital nurses who leave their jobs mainly turn to other jobs, usually within the healthcare sector, as opposed to non-employment. Having children frequently results in mothers transitioning to part-time schedules within hospital nurses jobs, but not in female hospital nurses turning to others jobs or leaving the workforce as a whole. Without the effect of motherhood, the prevalence of part-time work among hospital nurses would actually be much lower. Finally, hospitals offset nursing hours losses due to hospital nurses outflows, by hiring new nurses; by contrast nursing hours lost to transitions to part-time work are poorly compensated for.
+    This paper quantifies the supply of nursing labor in French hospitals over the course of hospital nurses' careers, using detailed longitudinal payroll tax data matched with birth certificates and census data. Over the first ten years of their careers, the nursing hours supplied to hospitals decrease by more than a third on average. This decline is primarily driven by hospital nurses leaving these positions, and to a lesser extent by transitions to part-time schedules within hospital nursing jobs. Nurses who leave hospital positions predominantly transition to other jobs, usually within the healthcare sector, rather than to non-employment. These job transitions are mostly unrelated to motherhood, whereas having children frequently leads mothers to switch to part-time schedules within hospital nursing jobs. In fact, without the effect of motherhood, the prevalence of part-time work among hospital nurses would be significantly lower. Finally, while hospitals offset the loss of nursing hours due to unanticipated staff departures by hiring new nurses, they struggle to compensate for nursing hours lost to part-time transitions.
   </details>
   <details>
         <summary>Media coverage</summary>
