@@ -2,9 +2,30 @@
 title: Research
 ---
 
-# Published papers
+# Peer-reviewed publications
 
-* **["Dissecting Child Penalties"](Dissecting-Child-Penalties.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). accepted *ILR Review***, previously circulated as "Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution" (WP 2019-17 Crest) [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
+* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](Nurses_labor_supply_Pora_feb24.pdf) Conditionally accepted *Labour Economics***, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+  <details>
+      <summary>Abstract</summary>
+
+    This paper quantifies the supply of nursing labor in French hospitals over the course of hospital nurses' careers, using detailed longitudinal payroll tax data matched with birth certificates and census data. Over the first ten years of their careers, the nursing hours supplied to hospitals decrease by more than a third on average. This decline is primarily driven by hospital nurses leaving these positions, and to a lesser extent by transitions to part-time schedules within hospital nursing jobs. Nurses who leave hospital positions predominantly transition to other jobs, usually within the healthcare sector, rather than to non-employment. These job transitions are mostly unrelated to motherhood, whereas having children frequently leads mothers to switch to part-time schedules within hospital nursing jobs. In fact, without the effect of motherhood, the prevalence of part-time work among hospital nurses would be significantly lower. Finally, while hospitals offset the loss of nursing hours due to unanticipated staff departures by hiring new nurses, they struggle to compensate for nursing hours lost to part-time transitions.
+  </details>
+  <details>
+        <summary>Media coverage</summary>
+     
+        <a href="https://www.20minutes.fr/societe/4049914-20230824-sante-apres-dix-ans-carriere-moitie-infirmieres-quittent-hopital-changent-metier">20 Minutes</a>,
+        <a href="https://www.francetvinfo.fr/sante/hopital/crise/departs-massifs-d-infirmieres-c-est-du-gachis-humain-et-social-deplore-le-syndicat-national-des-professionnels-infirmiers_6023210.html">France Info</a>,
+        <a href="https://www.la-croix.com/Sciences-et-ethique/infirmieres-sont-nombreuses-quitter-lhopital-2023-08-24-1201279896">La Croix</a>,
+        <a href="https://www.lefigaro.fr/conjoncture/pres-d-une-infirmiere-sur-deux-a-quitte-l-hopital-ou-change-de-metier-apres-dix-ans-de-carriere-20230824">Le Figaro</a>,
+        <a href="https://www.lesechos.fr/economie-france/social/les-infirmieres-toujours-plus-nombreuses-a-quitter-lhopital-1972018">Les Échos</a>,
+        <a href="https://www.liberation.fr/societe/sante/apres-dix-ans-de-carriere-pres-de-la-moitie-des-infirmieres-hospitalieres-ont-jete-leponge-20230824_NVATMZZA5BCBVFIHEZAH4PNOXM/">Libération</a>,
+        <a href="https://www.vie-publique.fr/en-bref/290751-hopital-les-departs-dinfirmieres-plus-nombreux">Vie publique</a>,
+        <a href="https://information.tv5monde.com/terriennes/france-les-infirmieres-oubliees-sous-payees-2665338">TV5Monde</a>
+    </details>
+    
+    <p></p>
+
+* **["Dissecting Child Penalties"](Dissecting-Child-Penalties.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). Accepted *ILR Review***, previously circulated as "Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution" (WP 2019-17 Crest) [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
     
@@ -105,27 +126,6 @@ title: Research
 
     This study uses French survey data on immigrants to explore whether the child penalty is driven by traditional gender attitudes. The dataset includes individual perceptions of gender inequality and women's bodily autonomy, alongside fertility histories and labor market trajectories for immigrants living in France during 2019–2020. While women holding more traditional views are less likely to participate in the labor force overall, the child penalty does not appear to be larger for this group. Interestingly, the child penalty accounts for a significantly greater share of the gender gap in labor force participation among those with more egalitarian views. Comparative analyses across immigrants’ upbringing environments and countries of origin further support a causal interpretation of the absence of a relationship between traditional gender attitudes and the child penalty.
       </details>
-    
-    <p></p>
-
-* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](Nurses_labor_supply_Pora_feb24.pdf)**, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. Conditionally accepted for *Labour Economics* [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
-  <details>
-      <summary>Abstract</summary>
-
-    This paper quantifies the supply of nursing labor in French hospitals over the course of hospital nurses' careers, using detailed longitudinal payroll tax data matched with birth certificates and census data. Over the first ten years of their careers, the nursing hours supplied to hospitals decrease by more than a third on average. This decline is primarily driven by hospital nurses leaving these positions, and to a lesser extent by transitions to part-time schedules within hospital nursing jobs. Nurses who leave hospital positions predominantly transition to other jobs, usually within the healthcare sector, rather than to non-employment. These job transitions are mostly unrelated to motherhood, whereas having children frequently leads mothers to switch to part-time schedules within hospital nursing jobs. In fact, without the effect of motherhood, the prevalence of part-time work among hospital nurses would be significantly lower. Finally, while hospitals offset the loss of nursing hours due to unanticipated staff departures by hiring new nurses, they struggle to compensate for nursing hours lost to part-time transitions.
-  </details>
-  <details>
-        <summary>Media coverage</summary>
-     
-        <a href="https://www.20minutes.fr/societe/4049914-20230824-sante-apres-dix-ans-carriere-moitie-infirmieres-quittent-hopital-changent-metier">20 Minutes</a>,
-        <a href="https://www.francetvinfo.fr/sante/hopital/crise/departs-massifs-d-infirmieres-c-est-du-gachis-humain-et-social-deplore-le-syndicat-national-des-professionnels-infirmiers_6023210.html">France Info</a>,
-        <a href="https://www.la-croix.com/Sciences-et-ethique/infirmieres-sont-nombreuses-quitter-lhopital-2023-08-24-1201279896">La Croix</a>,
-        <a href="https://www.lefigaro.fr/conjoncture/pres-d-une-infirmiere-sur-deux-a-quitte-l-hopital-ou-change-de-metier-apres-dix-ans-de-carriere-20230824">Le Figaro</a>,
-        <a href="https://www.lesechos.fr/economie-france/social/les-infirmieres-toujours-plus-nombreuses-a-quitter-lhopital-1972018">Les Échos</a>,
-        <a href="https://www.liberation.fr/societe/sante/apres-dix-ans-de-carriere-pres-de-la-moitie-des-infirmieres-hospitalieres-ont-jete-leponge-20230824_NVATMZZA5BCBVFIHEZAH4PNOXM/">Libération</a>,
-        <a href="https://www.vie-publique.fr/en-bref/290751-hopital-les-departs-dinfirmieres-plus-nombreux">Vie publique</a>,
-        <a href="https://information.tv5monde.com/terriennes/france-les-infirmieres-oubliees-sous-payees-2665338">TV5Monde</a>
-    </details>
     
     <p></p>
 
