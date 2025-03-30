@@ -4,7 +4,7 @@ title: Research
 
 # Peer-reviewed publications
 
-* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](Nurses_labor_supply_Pora_feb24.pdf) Accepted *Labour Economics***, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](Nurses_labor_supply_Pora_feb24.pdf). Accepted *Labour Economics***, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
   <details>
       <summary>Abstract</summary>
 
@@ -61,7 +61,7 @@ title: Research
 
     <p></p>
 
-* **["A Decomposition of Labor Earnings Growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130) with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
+* **["A Decomposition of Labor Earnings Growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
     <details>
       <summary>Abstract</summary>
             
