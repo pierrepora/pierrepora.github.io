@@ -120,7 +120,7 @@ title: Research
 
 # Working papers
 
-* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](Meurs_Pora_dec24.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique). Economix Working Paper 2025-10.**
+* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](Meurs_Pora_dec24.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique). Economix Working Paper 2025-10.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/8576178).
     <details>
         <summary>Abstract</summary>
 
