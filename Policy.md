@@ -4,6 +4,8 @@ title: Policy writing
 
 # Policy (in French)
 
+* ["L’effet de la parentalité sur le taux d’activité des mères immigrées et descendantes d’immigrées ne dépend pas de leur opinion sur les inégalités de genre sur le marché du travail"](https://www.insee.fr/fr/statistiques/8576178), with D. Meurs, Insee Analyses 110, 2025. 
+
 * ["L’indemnisation des accidents du travail avec incapacité permanente compense-t-elle leurs conséquences financières ?"](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/230411_DD117_AccidentsTravail), with R. Lardeux, Dossiers de la Drees 117, 2024.   
      <details>
         <summary>Media coverage</summary>
