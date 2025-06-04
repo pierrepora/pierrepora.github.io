@@ -120,11 +120,11 @@ title: Research
 
 # Working papers
 
-* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](Meurs_Pora_dec24.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique). Economix Working Paper 2025-10.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/8576178).
+* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](https://www.insee.fr/en/statistiques/fichier/version-html/8578375/DT2025-12.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique). Insee Working Paper 2025-12.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/8576178).
     <details>
         <summary>Abstract</summary>
 
-    This study uses French survey data on immigrants to explore whether the child penalty is driven by traditional gender attitudes. The dataset includes individual perceptions of gender inequality and women's bodily autonomy, alongside fertility histories and labor market trajectories for immigrants living in France during 2019–2020. While women holding more traditional views are less likely to participate in the labor force overall, the child penalty does not appear to be larger for this group. Interestingly, the child penalty accounts for a significantly greater share of the gender gap in labor force participation among those with more egalitarian views. Comparative analyses across immigrants’ upbringing environments and countries of origin further support a causal interpretation of the absence of a relationship between traditional gender attitudes and the child penalty.
+    This study examines whether the child penalty is driven by traditional gender attitudes using French survey data on immigrants. While women with traditional views participate less in the labor force, their child penalty is not larger. Consequently, the child penalty explains a greater share of gender gaps among immigrants with egalitarian views. Comparative analyses across upbringing environments and countries of origin confirm the absence of a causal link between gender attitudes and the child penalty. The findings suggest that as norms become more egalitarian, the child penalty accounts for a growing share of gender disparities in labor outcomes.
       </details>
     
     <p></p>
