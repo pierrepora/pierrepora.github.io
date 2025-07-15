@@ -120,6 +120,15 @@ title: Research
 
 # Working papers
 
+* **["Child Penalty & The Rise in Within-Couple Income Inequality"](https://crest.science/RePEc/wpstorage/2025-08.pdf), with [C. Bonnet](https://carolebonnet.site.ined.fr/fr/), [L. Dubreuil](https://sites.google.com/view/lea-dubreuil/home) and [B. Garbinti](https://www.bertrandgarbinti.com/). Crest Working Paper 2025-08.**
+    <details>
+        <summary>Abstract</summary>
+
+    Using a rich administrative dataset representative of the French population, we study the causal impact of the first childbirth on the within-couple inequality in France. We find that women’s contribution to total household income 5 years after the birth of their first child is 16% lower than what it would have been absent children. Both partners experience an income loss after childbirth, driven by a decline in working hours. However, the drop is much larger for women: 23% for women and 4% for men five years after childbirth. The drop in woman's contribution to total household income after childbirth is more pronounced for women with a higher contribution to couple's income before childbirth. This is both because the child penalty is higher for these women compared to others, and because their partners experience the largest increase in income following childbirth compared to other partners. Moreover, heterogeneous responses across couples reshape the entire distribution of within-couple inequality, notably through a sharp decline in the share of egalitarian couples, while the share of female-breadwinner couples slightly decreases but remains closed to its already low level.
+      </details>
+    
+    <p></p>
+
 * **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](https://www.insee.fr/en/statistiques/fichier/version-html/8578375/DT2025-12.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique). Insee Working Paper 2025-12.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/8576178).
     <details>
         <summary>Abstract</summary>
