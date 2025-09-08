@@ -4,11 +4,10 @@ title: Research
 
 # Peer-reviewed publications
 
-* **["Dissecting Child Penalties"](Dissecting-Child-Penalties.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). Accepted *ILR Review***, previously circulated as "Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution" (WP 2019-17 Crest) [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
+* **["Dissecting Child Penalties"](https://journals.sagepub.com/doi/abs/10.1177/00197939251342494), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *ILR Review*, 78(5), 859-884, 2025**, previously circulated as "Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution" (WP 2019-17 Crest) [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
-    
-        We relate mothers' children-related labor earnings losses, child penalties, to their location in the distribution of potential hourly wages. Using French administrative data and based on an event study approach, we show that the magnitude of these earnings losses decreases steeply along that distribution. This heterogeneity is the result of low-wage mothers leaving the labor market and more frequently reducing their working hours. By contrast, fathers' labor market outcomes do not vary upon the arrival of children, regardless of their location in the distribution of potential hourly wages.
+    The authors relate mothers’ children-related labor earnings losses, referred to here as child penalties, to their location in the distribution of potential hourly wages. Using French administrative data and based on an event study approach, the authors show that the magnitude of these earnings losses decreases steeply along that distribution. This heterogeneity is the result of low-wage mothers leaving the labor market and more frequently reducing their working hours. By contrast, fathers’ labor market outcomes do not vary upon the arrival of children, regardless of their location in the distribution of potential hourly wages. These marked differences suggest that the pervasive part of life-cycle gender inequality associated with parenthood is related to both financial incentives and gender norms.
     </details>
 
     <details>
