@@ -2,8 +2,8 @@
 title: Teaching
 ---
 * 2025-         : Introductory econometrics, ENS-PSL.
-  * Lecture slides: [Lecture 1](cours_seance_1.pdf), [Lecture 2](cours_seance_2.pdf), [Lecture 3](cours_seance_3.pdf),  [Lecture 4](cours_seance_4.pdf)
-  * TA sessions: [Session 1: R basics](R_basics_exercises.pdf), [Session 2: vectors and lists](R_vectors_lists_exercises.pdf)
+  * Lecture slides: [Lecture 1](cours_seance_1.pdf), [Lecture 2](cours_seance_2.pdf), [Lecture 3](cours_seance_3.pdf),  [Lecture 4](cours_seance_4.pdf), [Lecture 5](cours_seance_5.pdf).
+  * TA sessions: [Session 1: R basics](R_basics_exercises.pdf), [Session 2: vectors and lists](R_vectors_lists_exercises.pdf), [Session 3: R data frames](R_dataframes.pdf), [Session 4: regression coefficients](R_regression_coefficients.pdf).
     
 * 2021-2023    : Causal inference and modelling, [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS, with O. Godechot.
   * A (very preliminary) version of the content of this class is available [here](https://pierrepora.github.io/inference_causale/) in French
