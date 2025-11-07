@@ -2,7 +2,7 @@
 title: Teaching
 ---
 * 2025-         : Introductory econometrics, ENS-PSL.
-  * Lecture slides (in French): [Lecture 1: General overview](cours_seance_1.pdf), [Lecture 2: Where do quantitative data come from?](cours_seance_2.pdf), [Lecture 3: A refresher on probability and statistics](cours_seance_3.pdf),  [Lecture 4: Simple linear regression - coefficient interpretation](cours_seance_4.pdf), [Lecture 5: Multiple linear regression - coefficents interprétation](cours_seance_5.pdf), [Lecture 6: OLS estimator asymptotics](cours_seance_6.pdf).
+  * Lecture slides (in French): [Lecture 1: General overview](cours_seance_1.pdf), [Lecture 2: Where do quantitative data come from?](cours_seance_2.pdf), [Lecture 3: A refresher on probability and statistics](cours_seance_3.pdf),  [Lecture 4: Simple linear regression - coefficient interpretation](cours_seance_4.pdf), [Lecture 5: Multiple linear regression - coefficents interpretation](cours_seance_5.pdf), [Lecture 6: OLS estimator asymptotics](cours_seance_6.pdf).
   * TA sessions: [Session 1: R basics](R_basics_exercises.pdf), [Session 2: vectors and lists](R_vectors_lists_exercises.pdf), [Session 3: R data frames](R_dataframes.pdf), [Session 4: regression coefficients](R_regression_coefficients.pdf), [Session 5: OLS estimator asymptotics](R_robust_vcov_matrix.pdf).
     
 * 2021-2023    : Causal inference and modelling, [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS, with O. Godechot.
