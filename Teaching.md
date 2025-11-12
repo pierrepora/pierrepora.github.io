@@ -1,7 +1,7 @@
 ---
 title: Teaching
 ---
-* 2025-         : Introductory econometrics, lecturer, ENS-PSL.
+* 2025-         : Introductory econometrics, lecturer, ENS-PSL (undergraduate level).
   * Lecture slides (in French):
     * [Lecture 1: General overview](cours_seance_1.pdf)
     * [Lecture 2: Where do quantitative data come from?](cours_seance_2.pdf)
@@ -16,7 +16,7 @@ title: Teaching
     * [Session 4: regression coefficients](R_regression_coefficients.pdf)
     * [Session 5: OLS estimator asymptotics](R_robust_vcov_matrix.pdf).
     
-* 2021-2023    : Causal inference and modelling, [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), co-lecturer with O. Godechot, ENS-EHESS.
+* 2021-2023    : Causal inference and modelling, co-lecturer with O. Godechot,  [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS.
   * A (very preliminary) version of the content of this class is available [here](https://pierrepora.github.io/inference_causale/) in French
   * Slides (in French):
     * [Lecture 1: A refresher on OLS](MCO_slides.pdf)
