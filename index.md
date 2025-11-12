@@ -4,7 +4,7 @@ I am an economist at [Insee](https://insee.fr/fr/accueil), the French national s
 
 I am also an affiliate researcher at [Crest](https://crest.science/) and [Ined](https://demographie-economique.site.ined.fr/).
 
-My research focuses on Labor Economics, Health Economics, and Policy Evaluation, with a particular emphasis on Gender and Family Economics. My research focuses in particular on the consequences of familmy life, spanning from the cultural roots of the child penalty to the organisational consequences of nurses' parenthood for hospitals.
+My research focuses on Labor Economics, Health Economics, and Policy Evaluation, with a particular emphasis on Gender and Family Economics. My research focuses in particular on the consequences of family life, spanning from the cultural roots of the child penalty to the organisational consequences of nurses' parenthood for hospitals.
 
 **I am on the 2025-2026 job market.**
 
