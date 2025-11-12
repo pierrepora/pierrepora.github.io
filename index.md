@@ -1,10 +1,10 @@
 ![Me](Photo_PPora.jpg)
 
-I am an economist at [Insee](https://insee.fr/fr/accueil), the French national statistical office. Previously, I worked at [Drees](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/), the statistical and research division of the French Ministry of Health and Social Policy. 
+I am an economist at [Insee](https://insee.fr/fr/accueil), the French national statistical office, and an affiliated researcher at [Crest](https://crest.science/) and [Ined](https://demographie-economique.site.ined.fr/). My research lies at the intersection of Labor, Health, and Public Economics, with a particular focus on Gender and Family Economics.
 
-I am also an affiliate researcher at [Crest](https://crest.science/) and [Ined](https://demographie-economique.site.ined.fr/).
+I study how family life shapes labor market outcomes and organizational dynamics. My recent work examines the cultural roots of the child penalty and how nurses’ parenthood affects hospital organization.
 
-My research focuses on Labor Economics, Health Economics, and Policy Evaluation, with a particular emphasis on Gender and Family Economics. My research focuses in particular on the consequences of family life, spanning from the cultural roots of the child penalty to the organisational consequences of nurses' parenthood for hospitals.
+Before joining Insee, I worked at [Drees](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/), the statistical and research division of the French Ministry of Health and Social Affairs.
 
 **I am on the 2025-2026 job market.**
 
