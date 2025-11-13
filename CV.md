@@ -15,6 +15,8 @@ My full CV is available [here](CV_Pora_en.pdf).
 
 * 2014-2017: **Economist**, Wages and Labor Income unit, [Insee](https://insee.fr/fr/accueil).
 
+* since 2025: [Ined](https://www.ined.fr/) research affiliate  
+
 * since 2014: [Crest](http://crest.science/) affiliate.
 
 
