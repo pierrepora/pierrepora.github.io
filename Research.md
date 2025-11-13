@@ -3,7 +3,7 @@ title: Research
 ---
 # Job Market Paper
 
-* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](ChildPenalty_JMP.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique).** [Insee Working Paper 2025-12](https://www.insee.fr/en/statistiques/fichier/version-html/8578375/DT2025-12.pdf) [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/8576178).
+* **["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](ChildPenalty_JMP.pdf), with [D. Meurs](https://economix.fr/fr/membre/meurs-dominique).** [Additional details](ChildPenalty_JMP_OnlineAppendix.pdf) [Insee Working Paper 2025-12](https://www.insee.fr/en/statistiques/fichier/version-html/8578375/DT2025-12.pdf) [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/8576178).
     <details>
         <summary>Abstract</summary>
 
