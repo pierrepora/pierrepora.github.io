@@ -7,7 +7,7 @@ title: Teaching
     * [Lecture 2: Where do quantitative data come from?](cours_seance_2.pdf)
     * [Lecture 3: A refresher on probability and statistics](cours_seance_3.pdf)
     * [Lecture 4: Simple linear regression - coefficient interpretation](cours_seance_4.pdf)
-    * [Lecture 5: Multiple linear regression - coefficents interpretation](cours_seance_5.pdf)
+    * [Lecture 5: Multiple linear regression - coefficients interpretation](cours_seance_5.pdf)
     * [Lecture 6: OLS estimator asymptotics](cours_seance_6.pdf).
   *  TA sessions:
      * [Session 1: R basics](R_basics_exercises.pdf)
