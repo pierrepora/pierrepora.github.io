@@ -22,6 +22,6 @@ My full CV is available [here](CV_Pora_en.pdf).
 
 * 2018-2021 : **Ph.D.** in Economics, [Université Paris Nanterre (EconomiX)](https://economix.fr/en), Economics. Advisor: Dominique Meurs.
 
-* 2014: **M.S.** in Data Science and Social Sciences, [Ensae Paris](https://www.ensae.fr/).
+* 2012-2014: **M.S.** in Data Science and Social Sciences, [Ensae Paris](https://www.ensae.fr/).
 
-* 2012: **B.S.** in Physics and Mathematics, [École Polytechnique](https://www.polytechnique.edu/)  (*ingénieur polytechnicien* program).
+* 2009-2012: **B.S.** in Physics and Mathematics, [École Polytechnique](https://www.polytechnique.edu/)  (*ingénieur polytechnicien* program).
