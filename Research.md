@@ -16,7 +16,7 @@ title: Research
 
 # Peer-reviewed publications
 
-* **["Dissecting Child Penalties"](https://journals.sagepub.com/doi/abs/10.1177/00197939251342494), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *ILR Review*, 78(5), 859-884, 2025**, previously circulated as "Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution" (WP 2019-17 Crest) [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
+* **["Dissecting Child Penalties"](PoraWilner_ILRR_2025.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *ILR Review*, 78(5), 859-884, 2025**, previously circulated as "Child Penalties and Financial Incentives: Exploiting Variation along the Wage Distribution" (WP 2019-17 Crest) [Non-technical summary (in French)](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Abstract</summary>
     The authors relate mothers’ children-related labor earnings losses, referred to here as child penalties, to their location in the distribution of potential hourly wages. Using French administrative data and based on an event study approach, the authors show that the magnitude of these earnings losses decreases steeply along that distribution. This heterogeneity is the result of low-wage mothers leaving the labor market and more frequently reducing their working hours. By contrast, fathers’ labor market outcomes do not vary upon the arrival of children, regardless of their location in the distribution of potential hourly wages. These marked differences suggest that the pervasive part of life-cycle gender inequality associated with parenthood is related to both financial incentives and gender norms.
@@ -72,7 +72,7 @@ title: Research
     
     <p></p>
 
-* **["A Decomposition of Labor Earnings Growth: Recovering Gaussianity?"](https://www.sciencedirect.com/science/article/pii/S0927537120300130), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
+* **["A Decomposition of Labor Earnings Growth: Recovering Gaussianity?"](PoraWilner_LE_2020.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Labour Economics*, 63, 101807, 2020.** [Non-technical summary (in French)](https://www.insee.fr/fr/statistiques/3364555).
     <details>
       <summary>Abstract</summary>
             
@@ -87,7 +87,7 @@ title: Research
   </details>
   <p></p>
 
-* **["Gender Equality on the Labour Market in France: A Slow Convergence Hampered by Motherhood"](https://www.insee.fr/en/statistiques/4253144?sommaire=4253180), with [D. Meurs](https://sites.google.com/view/dominique-meurs/home). *Economie et Statistique / Economics and Statistics*, 510-511-512, 109-130, 2019.**
+* **["Gender Equality on the Labour Market in France: A Slow Convergence Hampered by Motherhood"](MeursPora_ES_2019.pdf), with [D. Meurs](https://sites.google.com/view/dominique-meurs/home). *Economie et Statistique / Economics and Statistics*, 510-511-512, 109-130, 2019.**
     <details>
         <summary>Abstract</summary>
             
@@ -104,7 +104,7 @@ title: Research
 
     <p></p>
 
-* **["The Individual Dynamics of Wage Income in France During the Crisis"](https://www.insee.fr/en/statistiques/3135092?sommaire=3135112), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.**
+* **["The Individual Dynamics of Wage Income in France During the Crisis"](PoraWilner_ES_2017.pdf), with [L. Wilner](https://sites.google.com/view/lionelwilner/). *Economie et Statistique / Economics and Statistics*,  494-495-496, 179-199, 2017.**
     <details>
         <summary>Abstract</summary>
     
