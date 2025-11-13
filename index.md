@@ -10,4 +10,5 @@ Before joining Insee, I worked at [Drees](https://drees.solidarites-sante.gouv.f
 
 **Job Market Paper**
 ["Traditional Views, Egalitarian Views, and the Child Penalty: Insights from Immigrant Populations in France"](ChildPenalty_JMP.pdf), with D. Meurs
+
   This study examines whether the child penalty is driven by traditional gender attitudes using French survey data on immigrants. While women with traditional views participate less in the labor force, their child penalty is not larger. Consequently, the child penalty explains a greater share of gender gaps among immigrants with egalitarian views. Comparative analyses across upbringing environments and countries of origin confirm the absence of a causal link between gender attitudes and the child penalty. The findings suggest that as norms become more egalitarian, the child penalty accounts for a growing share of gender disparities in labor outcomes.
