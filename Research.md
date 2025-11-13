@@ -51,7 +51,7 @@ title: Research
 
     <p></p>
 
-* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](https://www.sciencedirect.com/science/article/pii/S0927537125000430). *Labour Economics*, 94, 102716, 2025**, previously circulated as ["Do Children Explain Nurses Shortages?"](https://journees-methodologie-statistique.insee.net/wp-content/uploads/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022. [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+* **["The Supply of Nursing Labor in French Hospitals: Outflows, Part-Time Work and Motherhood"](https://www.sciencedirect.com/science/article/pii/S0927537125000430). *Labour Economics*, 94, 102716, 2025**, previously circulated as "Do Children Explain Nurses Shortages?", Actes des JMS 2022. [Non-technical summary (in French)](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
   <details>
       <summary>Abstract</summary>
 
