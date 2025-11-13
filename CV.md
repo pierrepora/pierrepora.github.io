@@ -1,7 +1,7 @@
 ---
 title: CV
 ---
-My full CV is available [here](CV_Pora_en.pdf).
+My full CV is available [here](CV_Pora.pdf).
 
 # Employment
 
