@@ -10,7 +10,8 @@ title: Teaching
     * [Lecture 5: Multiple linear regression - coefficients interpretation](cours_seance_5.pdf)
     * [Lecture 6: OLS estimator asymptotics](cours_seance_6.pdf)
     * [Lecture 7: Statistical testing for OLS](cours_seance_7.pdf)
-    * [Lecture 8: Panel data and fixed effect regression - coefficients interpretations](cours_seance_8.pdf)
+    * [Lecture 8: Panel data and fixed effects regression - coefficients interpretations](cours_seance_8.pdf)
+    * [Lecture 9: Panel data and fixed effects regression - estimation and inference](cours_seance_9.pdf)
   *  TA sessions:
      * [Session 1: R basics](R_basics_exercises.pdf)
      * [Session 2: vectors and lists](R_vectors_lists_exercises.pdf)
