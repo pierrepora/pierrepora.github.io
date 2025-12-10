@@ -14,9 +14,9 @@ title: Teaching
     * [Lecture 9: Panel data and fixed effects regression - estimation and inference](cours_seance_9.pdf)
   *  TA sessions:
      * [Session 1: R basics](R_basics_exercises.pdf)
-     * [Session 2: vectors and lists](R_vectors_lists_exercises.pdf)
+     * [Session 2: R Vectors and lists](R_vectors_lists_exercises.pdf)
      * [Session 3: R data frames](R_dataframes.pdf)
-     * [Session 4: regression coefficients](R_regression_coefficients.pdf)
+     * [Session 4: Regression coefficients](R_regression_coefficients.pdf)
      * [Session 5: OLS estimator asymptotics](R_robust_vcov_matrix.pdf)
      * [Session 6: Clustered standard errors](R_clustered_vcov_matrix.pdf)
      * [Session 7: Statistical testing for linear regressions](R_regression_statistical_testing.pdf)
