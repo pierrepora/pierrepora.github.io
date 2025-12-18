@@ -21,6 +21,7 @@ title: Teaching
      * [Session 6: Clustered standard errors](R_clustered_vcov_matrix.pdf)
      * [Session 7: Statistical testing for linear regressions](R_regression_statistical_testing.pdf)
      * [Session 8: Panel data and fixed effects regressions](R_panel_data_FE_regression.pdf)
+     * [Session 9: A final recap](R_final_recap.pdf)
     
 * 2021-2023    : Causal inference and modelling, co-lecturer with O. Godechot,  [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS.
   * A (very preliminary) version of the content of this class is available [here](https://pierrepora.github.io/inference_causale/) in French
