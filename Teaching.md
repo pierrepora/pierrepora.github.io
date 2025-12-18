@@ -14,14 +14,14 @@ title: Teaching
     * [Lecture 9: Panel data and fixed effects regression - estimation and inference](cours_seance_9.pdf)
   *  TA sessions:
      * [Session 1: R basics](R_basics_exercises.pdf)
-     * [Session 2: R Vectors and lists](R_vectors_lists_exercises.pdf)
-     * [Session 3: R data frames](R_dataframes.pdf)
-     * [Session 4: Regression coefficients](R_regression_coefficients.pdf)
-     * [Session 5: OLS estimator asymptotics](R_robust_vcov_matrix.pdf)
-     * [Session 6: Clustered standard errors](R_clustered_vcov_matrix.pdf)
-     * [Session 7: Statistical testing for linear regressions](R_regression_statistical_testing.pdf)
-     * [Session 8: Panel data and fixed effects regressions](R_panel_data_FE_regression.pdf)
-     * [Session 9: A final recap](R_final_recap.pdf)
+     * [Session 2: R Vectors and lists](R_vectors_lists_exercises.pdf) ([solution](td2.R))
+     * [Session 3: R data frames](R_dataframes.pdf) ([solution](td3.R))
+     * [Session 4: Regression coefficients](R_regression_coefficients.pdf) ([solution](td4.R))
+     * [Session 5: OLS estimator asymptotics](R_robust_vcov_matrix.pdf) ([solution](td5.R))
+     * [Session 6: Clustered standard errors](R_clustered_vcov_matrix.pdf) ([solution](td6.R))
+     * [Session 7: Statistical testing for linear regressions](R_regression_statistical_testing.pdf) ([solution](td7.R))
+     * [Session 8: Panel data and fixed effects regressions](R_panel_data_FE_regression.pdf) ([solution](td8.R))
+     * [Session 9: A final recap](R_final_recap.pdf) ([solution](td9.R))
     
 * 2021-2023    : Causal inference and modelling, co-lecturer with O. Godechot,  [Quantitative Social Sciences Master](https://master-sciences-sociales.ens.psl.eu/qess-presentation/), ENS-EHESS.
   * A (very preliminary) version of the content of this class is available [here](https://pierrepora.github.io/inference_causale/) in French
